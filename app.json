@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WLED-App",
+    "slug": "WLED-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WLED-App"
+}
